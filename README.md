@@ -1,5 +1,5 @@
 # Research
-Main Branch for all things reseach
+Main Branch for all things reseach: 
 Linear Algebra
 Calculus
 Statistics
